@@ -6,7 +6,7 @@ LLM / Transfer Learning 的个人学习知识库：论文阅读笔记、组会�
 
 ## 关于我
 
-本科生，研究方向 **Transfer Learning + LLM**，关注参数高效微调（PEFT）与无源域自适应（Source-Free Domain Adaptation）。
+本科生，研究方向 **Transfer Learning + LLM**。
 
 当前在做：
 
