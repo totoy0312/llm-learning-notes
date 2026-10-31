@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 大模型权重 / 数据集（不要提交）
+*.bin
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+checkpoints/
+data/
