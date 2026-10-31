@@ -6,17 +6,26 @@ LLM / Transfer Learning 的个人学习知识库：论文阅读笔记、组会�
 
 ## 关于我
 
-<!-- TODO: 补充个人介绍 —— 学校 / 方向 / 联系方式 / 求职意向 -->
+本科生，研究方向 **Transfer Learning + LLM**，关注参数高效微调（PEFT）与无源域自适应（Source-Free Domain Adaptation）。
 
-研究方向：**Transfer Learning + LLM**（参数高效微调 · 域自适应 / 无源域自适应）。
+当前在做：
+
+- 精读 / 略读领域经典与新论文，沉淀成笔记（见 [papers/](papers/)）
+- 学习并准备复现 LLM-Adapters（LLaMA-7B + LoRA）
+- 组会汇报与讨论（见 [talks/](talks/)）
+
+GitHub：[totoy0312](https://github.com/totoy0312)
+
+<!-- TODO: 补充 —— 学校 / 姓名 / 邮箱 / 求职意向 -->
 
 ## 目录结构
 
 ```
 llm-learning-notes/
-├── papers/    # 论文阅读笔记（每篇一个文件夹）
-├── talks/     # 组会汇报 PPT 与讲解稿
-└── code/      # 代码复现（待补充）
+├── glossary.md  # 术语表（RQ / SOTA / MMD / SFDA…）
+├── papers/      # 论文阅读笔记（每篇一个文件夹）
+├── talks/       # 组会汇报 PPT 与讲解稿
+└── code/        # 代码复现（待补充）
 ```
 
 ## 论文笔记
@@ -44,3 +53,7 @@ llm-learning-notes/
 - [ ] 复现 LLM-Adapters（LLaMA-7B + LoRA）
 - [ ] 补读 SFDA 后续：SHOT++ / NRC / AaD 等
 - [ ] 待验证方向：Source-free PEFT（轻量 × 无源）
+
+## 术语表
+
+读论文时遇到的概念，用人话解释 → [glossary.md](glossary.md)
